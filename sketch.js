@@ -1,13 +1,3 @@
-/*
------ Coding Tutorial by Patt Vira ----- 
-Name: Hypnotic Flowers
-Video Tutorial: https://youtu.be/jKuIcXXqR2w?si=taToQ-F4zjtnNK1Q
-
-Connect with Patt: @pattvira
-https://www.pattvira.com/
-----------------------------------------
-*/
-
 let flowers = []; 
 let num = 15;
 
